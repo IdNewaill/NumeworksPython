@@ -8,7 +8,7 @@ Réplique fonctionnelle de téléphone sur NumWorks
 Il est nécessaire de télécharger tous les [fichiers](../Tely4/) présents pour faire fonctionner le téléphone (depuis le pc après l'installation du module python "kandinsky" par la commande **'pip install kandinsky'**)
 
 Si vous souhaitez l'installer directement depuis votre NumWorks, rendez vous sur ce site :<br>
-[➜ Découvrir](https://my.numworkscom/python/playidaill/tely4)<br><br>
+[➜ Découvrir](https://my.numworks.com/python/playidaill/tely4)<br><br>
 Vous y retrouverez 2 autres fichiers à importer sur votre calculatrice en suivant les liens présents sur la page.
 
 ## Comment utiliser ?
