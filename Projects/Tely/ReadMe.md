@@ -1,4 +1,4 @@
-# [<Retour](../ReadMe.md) | Tely
+# [<Retour](../../ReadMe.md) | Tely
 Tely est une réplique de téléphone fait en Python, il existe plusieurs versions disponibles Tely4 et Tely9.
 
 # Découvrir
